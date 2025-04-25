@@ -1,4 +1,39 @@
 <resources>
     <string name="app_name">HikeSync App</string>
+    <string name="login">Sign up or log in to explore the great outdoors and discover special places</string>
+    <string name="login_signup">Or sign up/ log in with:</string>
+    <string name="terms">By signing in you agree to our Terms of Service.</string>
+    <string name="onboard1_1">Discover</string>
+    <string name="onboard1_2">breathtaking trails</string>
+    <string name="onboard1_3">near you.</string>
+    <string name="onboard2_1">Find your</string>
+    <string name="onboard2_2">Hiking tribe</string>
+    <string name="onboard2_3">and explore together.</string>
+    <string name="onboard3_1">Track your hikis,</string>
+    <string name="onboard3_2">share your journey,</string>
+    <string name="onboard3_3">and celebrate your achievements.</string>
+    <string name="name">Sachithra Indrachapa</string>
+    <string name="address">colombo,LK</string>
+    <string name="explorer">Explorer</string>
+    <string name="following">Following</string>
+    <string name="local">Local</string>
+    <string name="name1">Kamal Sunimal</string>
+    <string name="latest">Latest</string>
+    <string name="nearby">Nearby</string>
+    <string name="follow">Follow</string>
+    <string name="km">km</string>
+    <string name="description">"Great trail that starts through a tea plantation. The trail is easier in the beginning but then it will eventually become quite steep. Keep pushing to reach the top as the views are well worth it. You will be able to see the entire city of Ella as well as Little Adam's Peak. Bring plenty of water. The entire steep climb is in the forest so there are plenty of shade."</string>
+    <string name="elevation_gain">Elevation gain</string>
+    <string name="Out_and_back">Out-and-back</string>
+    <string name="distance">Distance</string>
+    <string name="trailName">Ella Rock Trail</string>
+    <string name="description2">4.7 • Hard •Kithal Ella, Badulla, Sri Lanka</string>
+    <string name="favorites">Favorites</string>
+    <string name="parks">Parks</string>
+    <string name="lists">Lists</string>
+    <string name="downloads">Downloads</string>
+    <string name="newList">Create new list</string>
+    <string name="my_fav">My Favorites</string>
+    <string name="my_map">My Map</string>
 
 </resources>
